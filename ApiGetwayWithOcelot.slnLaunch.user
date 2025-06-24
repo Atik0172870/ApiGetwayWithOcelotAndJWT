@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ApiGetwayWithOcelot\\ApiGetwayWithOcelot.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Writers.Api\\Writers.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Articles\\Articles.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

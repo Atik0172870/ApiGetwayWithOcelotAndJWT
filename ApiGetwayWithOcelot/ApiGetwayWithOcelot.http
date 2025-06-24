@@ -1,0 +1,6 @@
+@ApiGetwayWithOcelot_HostAddress = http://localhost:5073
+
+GET {{ApiGetwayWithOcelot_HostAddress}}/ApiGetway/
+Accept: application/json
+
+###

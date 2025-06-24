@@ -1,0 +1,66 @@
+{
+    "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:7078"
+    },
+    "Routes": [
+        {
+            "UpstreamPathTemplate": "/getway/writer", // this is the path that the client will use to access the service
+            "UpstreamHttpMethod": [ "GET" ],
+            "DownstreamPathTemplate": "/api/writer", // this is the path that the gateway will use to access the service
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7288 // this is the host and port of the service that the gateway will access
+                }
+            ],
+            "RateLimitOptions": {
+                "EnableRateLimiting": true,
+                "Period": "10s", // the period of time for the rate limit
+                "Limit": 3, // maximum number of requests allowed in the 10s
+                "PeriodTimespan": 10 // number of seconds we have to wait
+            },
+            "FileCacheOptions": {
+                "TtlSeconds": 10, // time to live in seconds for the cache
+                "Region": "WriterCache" // region for the cache
+            }
+
+        },
+        {
+            "UpstreamPathTemplate": "/getway/writer",
+            "UpstreamHttpMethod": [ "POST" ],
+            "DownstreamPathTemplate": "/api/writer",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7288
+                }
+            ]
+        },
+        {
+            "UpstreamPathTemplate": "/getway/article",
+            "UpstreamHttpMethod": [ "GET" ],
+            "DownstreamPathTemplate": "/api/article",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7131
+                }
+            ]
+        },
+        {
+            "UpstreamPathTemplate": "/getway/article",
+            "UpstreamHttpMethod": [ "POST" ],
+            "DownstreamPathTemplate": "/api/article",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7131
+                }
+            ]
+        }
+    ]
+}

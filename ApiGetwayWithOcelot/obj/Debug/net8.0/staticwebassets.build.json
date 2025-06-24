@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AXXozWeGvsxBsuNyuVBMuym9KPsvDZM2xfJUkJD4kK8=",
+  "Source": "ApiGetwayWithOcelot",
+  "BasePath": "_content/ApiGetwayWithOcelot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

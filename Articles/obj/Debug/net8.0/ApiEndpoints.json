@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Articles.Controllers.ArticleController",
+    "Method": "GetArticles",
+    "RelativePath": "api/Article",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Articles.Controllers.ArticleController",
+    "Method": "AddArticle",
+    "RelativePath": "api/Article",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "article",
+        "Type": "Articles.Models.Article",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
