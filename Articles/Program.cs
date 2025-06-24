@@ -12,7 +12,7 @@ builder.Services.AddScoped<IArticleRep, ArticleRep>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-
+app.UseAuthentication();
 app.UseAuthentication();
 app.UseHttpsRedirection();
 
