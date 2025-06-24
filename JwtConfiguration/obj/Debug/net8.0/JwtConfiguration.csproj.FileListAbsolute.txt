@@ -1,0 +1,13 @@
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\bin\Debug\net8.0\JwtConfiguration.deps.json
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\bin\Debug\net8.0\JwtConfiguration.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\bin\Debug\net8.0\JwtConfiguration.pdb
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.csproj.AssemblyReference.cache
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.AssemblyInfoInputs.cache
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.AssemblyInfo.cs
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.csproj.CoreCompileInputs.cache
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.sourcelink.json
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\refint\JwtConfiguration.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\JwtConfiguration.pdb
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\JwtConfiguration\obj\Debug\net8.0\ref\JwtConfiguration.dll

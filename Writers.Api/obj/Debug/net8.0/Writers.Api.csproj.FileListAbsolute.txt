@@ -11,6 +11,7 @@ E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\ob
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers.Api.AssemblyInfo.cs
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers.Api.csproj.CoreCompileInputs.cache
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers.Api.sourcelink.json
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\scopedcss\bundle\Writers.Api.styles.css
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\staticwebassets.build.json
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -27,3 +28,16 @@ E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\ob
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers.Api.pdb
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers.Api.genruntimeconfig.cache
 E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\ref\Writers.Api.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\JwtConfiguration.dll
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\bin\Debug\net8.0\JwtConfiguration.pdb
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers.Api.csproj.AssemblyReference.cache
+E:\Others_Persoanl\Project_Practice\ApiGetway\ApiGetwayWithOcelot\Writers.Api\obj\Debug\net8.0\Writers..5D7314F0.Up2Date

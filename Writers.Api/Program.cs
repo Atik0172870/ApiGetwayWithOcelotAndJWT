@@ -1,6 +1,8 @@
+using JwtConfiguration;
 using Writers.Api.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddJwtAuthentication();
 
 // Add services to the container.
 
@@ -13,6 +15,7 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -1,7 +1,10 @@
 using Ocelot.Cache.CacheManager;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
-
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using JwtConfiguration;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -10,7 +13,7 @@ builder.Services.AddOcelot(builder.Configuration).AddCacheManager(x =>
 {
     x.WithDictionaryHandle(); // add dictionary cachemanager to handle cache
 });
-
+builder.Services.AddJwtAuthentication();
 builder.Services.AddControllers();
 
 var app = builder.Build();
@@ -19,6 +22,7 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

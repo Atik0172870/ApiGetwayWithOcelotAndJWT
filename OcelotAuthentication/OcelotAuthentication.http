@@ -1,0 +1,6 @@
+@OcelotAuthentication_HostAddress = http://localhost:5273
+
+GET {{OcelotAuthentication_HostAddress}}/auth/
+Accept: application/json
+
+###
